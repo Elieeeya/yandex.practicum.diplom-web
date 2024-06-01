@@ -1,7 +1,7 @@
 
 <br>
 
-#### Автоматизация тестов для сайта https://qa-scooter.praktikum-services.ru/
+# Автоматизация тестов для сайта https://qa-scooter.praktikum-services.ru/
 
 <br>
 
